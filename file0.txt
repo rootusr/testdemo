@@ -15,3 +15,5 @@ add 6th line. commit, push
 add 7th line. commit, no push
 
 add 8th line. commit, push
+
+check out master/origin
