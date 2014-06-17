@@ -17,4 +17,3 @@ add 7th line. commit, no push
 add 8th line. commit, push
 
 check out master/origin
-edit file 0 again
